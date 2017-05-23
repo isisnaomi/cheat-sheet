@@ -151,3 +151,26 @@ a
 
     text-align: right;
 }
+.log--card
+{
+    height: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    background: white;
+}
+.log--action
+{
+    color: #46ba9b;
+}
+.log--header
+{
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    vertical-align: middle;
+
+    color: white;
+    background: #88c655;
+}
